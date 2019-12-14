@@ -1,5 +1,5 @@
 # Chameleon
 
-Based off of Immersive Limit's Chameleon's tutorial.
+Based off of Immersive Limit's Chameleon tutorial.
 
 [Link to tutorial](https://www.immersivelimit.com/tutorials/visual-chameleons)
